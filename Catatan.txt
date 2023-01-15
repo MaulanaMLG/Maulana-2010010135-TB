@@ -1,0 +1,16 @@
+Terima kasih kepada semuanya atas pembelajaran baik teman-teman, dosen, blogger maupun youtuber
+meski terkadang jadi lupa cara pengerjaannya (khususnya bagian BCrypt Password), setidaknya ada beberapa hal yang dapat dipahami
+seperti membuat gambar pada button yang dimana persis dengan memasukkan gambar dengan JLabel (meski butuh diedit pada gambar seperti memperbesar/memperkecil ukuran pixel)
+
+
+credit :
+
+OpenAI 
+
+Renaldi Pratama (Playlist tutorial hilang)
+
+Javatech Offical : https://www.youtube.com/watch?v=sKbjp600OjQ&list=PL0R6_HgJgTVwM5rSjoT6wKTLvr8XJFg39
+  		   https://www.youtube.com/watch?v=RjpoZAD5kKE&list=PL0R6_HgJgTVwWpwF_Q3gz_wMUgr-fZemq
+
+Belajar BCrypt : https://karjonoblog.wordpress.com/2017/11/10/cara-membuat-password-pbkdf2bcrpyt-dan-scrpyt-mengunakan-java-netbeans/
+		 https://www.youtube.com/watch?v=72IRUuI1I9E&t=4s
